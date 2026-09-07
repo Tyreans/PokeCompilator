@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>IMAGES/MAIN.png</file>
+        <file>IMAGES/blanco.jpg</file>
+        <file>IMAGES/avatar.png</file>
+        <file>IMAGES/pokemon.png</file>
+        <file>IMAGES/NOWP.png</file>
+        <file>IMAGES/MAIN2.png</file>
+        <file>IMAGES/juego.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>FONTS/Minecraft.ttf</file>
+    </qresource>
+</RCC>
